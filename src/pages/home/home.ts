@@ -13,6 +13,7 @@ export class HomePage {
 
     parispremierPage = ParispremierPage;
 
+
   constructor(public navCtrl: NavController) {
 
   }
